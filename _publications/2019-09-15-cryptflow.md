@@ -9,6 +9,7 @@ venue: IACR eprint archive
 authors: 'Nishant Kumar, Mayank Rathee, Nishanth Chandran, Divya Gupta, Aseem Rastogi & Rahul Sharma'
 eprint: 'https://eprint.iacr.org/2019/1049'
 bib: 'https://eprint.iacr.org/eprint-bin/cite.pl?entry=2019/1049'
+code: 'https://github.com/mpc-msri/EzPC'
 ---
 We present CrypTFlow, a first of its kind system that converts TensorFlow inference code into Secure Multi-party Computation (MPC) protocols at the push of a button. To do this, we build three components. Our first component, Athos, is an end-to-end compiler from TensorFlow to a variety of semi-honest MPC protocols. The second component, Porthos, is an improved semi-honest 3-party protocol that provides significant speedups for Tensorflow like applications. Finally, to provide malicious secure MPC protocols, our third component, Aramis, is a novel technique that uses hardware with integrity guarantees to convert any semi-honest MPC protocol into an MPC protocol that provides malicious security. The security of the protocols output by Aramis relies on hardware for integrity and MPC for confidentiality. Moreover, our system, through the use of a new float-to-fixed compiler, matches the inference accuracy over the plaintext floating-point counterparts of these networks.
 
