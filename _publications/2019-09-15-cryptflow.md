@@ -2,7 +2,7 @@
 title: "CrypTFlow: Secure TensorFlow Inference"
 collection: publications
 permalink: /publication/2019-09-15-cryptflow
-excerpt: 'In this work we introduce the notion of Functionally Encrypted Datastores, which allows multiple data owners to pool in data anonymously at two non-colluding servers and later allows malicious clients to perform search-and-compute queries on the collected data.'
+excerpt: 'We present CrypTFlow, a first of its kind system that converts TensorFlow inference code into Secure Multi-party Computation (MPC) protocols at the push of a button. The system enables secure inference on real-world networks like ResNet50 over the ImageNet dataset with running time of about 30 seconds for semi-honest security and under 2 minutes for malicious security.'
 date: 2019-09-15
 year: 2019
 venue: IACR eprint archive
