@@ -205,7 +205,7 @@ pt: &DEFAULT_PT
   feed_label                 : "Feed"
   powered_by                 : "Feito por"
   website_label              : "Site"
-  email_label                : "E-mail"
+  email_label                : "Email"
   recent_posts               : "Postagens recentes"
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
   comment_form_info          : "Seu endereço de e-mail não será publicado. Campos obrigatórios são marcados"

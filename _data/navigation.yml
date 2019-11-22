@@ -1,16 +1,17 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  # - title: "Projects"
+  #   url: /projects/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "Publications"
+    url: /publications/
         
-  - title: "Blog Posts"
+  - title: "Personal Posts"
     url: /year-archive/
-    
+
   - title: "Misc"
-    url: /misc/
-    
+    url: /misc/    
+  
   - title: "CV"
     url: /files/Nishant_Academic_CV.pdf
+

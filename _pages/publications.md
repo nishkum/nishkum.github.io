@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -11,6 +11,9 @@ author_profile: true
 
 {% include base_path %}
 
+<!-- TODO : Fix this properly with a separate section here for publications -->
+# Manuscripts
+<!-- *<sup><span style="font-size:4mm;">&dagger;</span></sup>Author names alphabetic* -->
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
