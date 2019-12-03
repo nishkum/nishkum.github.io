@@ -21,3 +21,4 @@ Links:
 1. [eprint](https://eprint.iacr.org/2019/1049)
 2. [arXiv](https://arxiv.org/abs/1909.07814)
 3. [github](https://github.com/mpc-msri/EzPC)
+4. [Talk](https://crypto.iacr.org/2019/affevents/ppml/page.html) at PPML Workshop, Crypto 2019
