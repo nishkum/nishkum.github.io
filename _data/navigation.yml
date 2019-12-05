@@ -7,7 +7,7 @@ main:
     url: /publications/
         
   - title: "Personal Posts"
-    url: /year-archive/
+    url: /personal-year-archive/
 
   - title: "Misc"
     url: /misc/    
