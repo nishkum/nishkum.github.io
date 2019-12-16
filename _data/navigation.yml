@@ -5,7 +5,10 @@ main:
 
   - title: "Publications"
     url: /publications/
-        
+  
+  - title: "Writings"
+    url: /writings/
+
   - title: "Personal Posts"
     url: /personal-year-archive/
 
