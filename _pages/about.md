@@ -16,4 +16,5 @@ Prior to this, I completed my Bachelors of Technology in [Computer Science](http
 
 The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Nishant_Academic_CV.pdf){: .btn .btn--info}
 
-Last updated: December 16, 2019
+Last updated: {{ page.last_modified_at | date: '%A, %d %B, %Y' }}
+
