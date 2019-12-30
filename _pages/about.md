@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/research-fellow-program/) at [Microsoft Research Lab, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). Here I work in the cryptography group, on the [EzPC](https://www.microsoft.com/en-us/research/project/ezpc-easy-secure-multi-party-computation/) ([Easy Secure Multi-party Computation](https://www.youtube.com/watch?v=-1H1Sp-_5YU)) project with [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/), [Dr. Divya Gupta](https://www.microsoft.com/en-us/research/people/digup/), [Dr. Aseem Rastogi](https://www.microsoft.com/en-us/research/people/aseemr/) and [Dr. Rahul Sharma](https://cs.stanford.edu/people/sharmar/). 
+I am a [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/research-fellow-program/) at [Microsoft Research Lab, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). Here I work in the cryptography group, on the [EzPC](https://www.microsoft.com/en-us/research/project/ezpc-easy-secure-multi-party-computation/) ([Easy Secure Multi-party Computation](https://www.youtube.com/watch?v=-1H1Sp-_5YU) project with [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/), [Dr. Divya Gupta](https://www.microsoft.com/en-us/research/people/digup/), [Dr. Aseem Rastogi](https://www.microsoft.com/en-us/research/people/aseemr/) and [Dr. Rahul Sharma](https://cs.stanford.edu/people/sharmar/). 
 
 Broadly, my research interests include theoretical and applied aspects of cryptography and security. 
 
