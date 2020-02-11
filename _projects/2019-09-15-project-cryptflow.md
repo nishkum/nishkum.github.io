@@ -22,5 +22,7 @@ We experimentally demonstrate the power of our system by showing the secure infe
 ## Outreach and presentation
 An archive version of the paper can be found on [eprint](https://eprint.iacr.org/2019/1049) or [arXiv](https://arxiv.org/abs/1909.07814). The complete code-base is also open-sourced at [GitHub](https://github.com/mpc-msri/EzPC).
 The corresponding results were presented by me at TechFest, which is an internal conference of Microsoft at Redmond, Washington, and at the [PPML workshop](https://crypto.iacr.org/2019/affevents/ppml/page.html) at Crypto, 2019 by my collaborators.
-This work is currently under submission to [IEEE Symposium on Security and Privacy (S&P), 2020](https://www.ieee-security.org/TC/SP2020/).
+
+## Updates
+- <span style="color:#fa4d4d">[Feb '20]</span> CrypTFlow has been accepted at [IEEE Symposium on Security and Privacy (S&P), 2020](https://www.ieee-security.org/TC/SP2020/).
 
