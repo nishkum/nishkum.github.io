@@ -17,6 +17,9 @@ Prior to this, I completed my Bachelors of Technology in [Computer Science](http
 The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Nishant_Academic_CV.pdf){: .btn .btn--info}
 
 ## Latest News
-- [Feb '19] Our work on CrypTFlow has been accepted to IEEE S&P, 2020! 
+- [Feb '20] Our work on CrypTFlow has been accepted to IEEE S&P, 2020! 
+- [Sept '19] Check out the [youtube video](https://www.youtube.com/watch?v=-1H1Sp-_5YU) on our project EzPC.
+- [Sept '19] CrypTFlow implementation and experiments are now all open-sourced at [GitHub](https://github.com/mpc-msri/EzPC).
+- [March '19] Presented our work on CrypTFlow at Microsoft's internal conference - TechFest at Redmond, Washington.
 
 ###### Last updated: February 11, 2020
