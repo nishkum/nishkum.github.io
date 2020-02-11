@@ -16,4 +16,7 @@ Prior to this, I completed my Bachelors of Technology in [Computer Science](http
 
 The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Nishant_Academic_CV.pdf){: .btn .btn--info}
 
-Last updated: December 31, 2019
+## Latest News
+- [Feb '19] Our work on CrypTFlow has been accepted to IEEE S&P, 2020! 
+
+###### Last updated: February 11, 2020
