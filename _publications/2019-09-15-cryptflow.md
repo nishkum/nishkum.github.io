@@ -15,13 +15,11 @@ We present CrypTFlow, a first of its kind system that converts TensorFlow infere
 
 We experimentally demonstrate the power of our system by showing the secure inference of real-world neural networks such as ResNet50, DenseNet121, and SqueezeNet over the ImageNet dataset with running times of about 30 seconds for semi-honest security and under two minutes for malicious security. Prior work in the area of secure inference (SecureML, MiniONN, HyCC, ABY3, CHET, EzPC, Gazelle, and SecureNN) has been limited to semi-honest security of toy networks with 3--4 layers over tiny datasets such as MNIST or CIFAR which have 10 classes. In contrast, our largest network has 200 layers, 65 million parameters and over 1000 ImageNet classes. Even on MNIST/CIFAR, CrypTFlow outperforms prior work.
 
-The paper is currently in submission to IEEE Symposium on Security and Privacy (S&P), 2020.
-
 ## Updates (Feb 11, 2020)
 CrypTFlow has been accepted to IEEE S&P, 2020.
 
 Links:
 1. [eprint](https://eprint.iacr.org/2019/1049)
 2. [arXiv](https://arxiv.org/abs/1909.07814)
-3. [github](https://github.com/mpc-msri/EzPC)
+3. [GitHub](https://github.com/mpc-msri/EzPC)
 4. [Talk](https://crypto.iacr.org/2019/affevents/ppml/page.html) at PPML Workshop, Crypto 2019

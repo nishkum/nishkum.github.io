@@ -185,6 +185,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  manuscripts:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: false
     permalink: /:collection/:path/
@@ -238,6 +241,15 @@ defaults:
   - scope:
       path: ""
       type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _manuscripts
+  - scope:
+      path: ""
+      type: manuscripts
     values:
       layout: single
       author_profile: true
