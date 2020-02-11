@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2019-09-15-cryptflow
 excerpt: 'We present CrypTFlow, a first of its kind system that converts TensorFlow inference code into Secure Multi-party Computation (MPC) protocols at the push of a button. The system enables secure inference on real-world networks like ResNet50 over the ImageNet dataset with running time of about 30 seconds for semi-honest security and under 2 minutes for malicious security.'
 date: 2019-09-15
-year: 2019
-venue: IACR eprint archive
+year: 2020 (To Appear)
+venue: IEEE Symposium on Security and Privacy (S&P)
 authors: 'Nishant Kumar, Mayank Rathee, Nishanth Chandran, Divya Gupta, Aseem Rastogi & Rahul Sharma'
 eprint: 'https://eprint.iacr.org/2019/1049'
 bib: 'https://eprint.iacr.org/eprint-bin/cite.pl?entry=2019/1049'
@@ -16,6 +16,9 @@ We present CrypTFlow, a first of its kind system that converts TensorFlow infere
 We experimentally demonstrate the power of our system by showing the secure inference of real-world neural networks such as ResNet50, DenseNet121, and SqueezeNet over the ImageNet dataset with running times of about 30 seconds for semi-honest security and under two minutes for malicious security. Prior work in the area of secure inference (SecureML, MiniONN, HyCC, ABY3, CHET, EzPC, Gazelle, and SecureNN) has been limited to semi-honest security of toy networks with 3--4 layers over tiny datasets such as MNIST or CIFAR which have 10 classes. In contrast, our largest network has 200 layers, 65 million parameters and over 1000 ImageNet classes. Even on MNIST/CIFAR, CrypTFlow outperforms prior work.
 
 The paper is currently in submission to IEEE Symposium on Security and Privacy (S&P), 2020.
+
+## Updates (Feb 11, 2020)
+CrypTFlow has been accepted to IEEE S&P, 2020.
 
 Links:
 1. [eprint](https://eprint.iacr.org/2019/1049)
