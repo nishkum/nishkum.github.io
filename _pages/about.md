@@ -22,4 +22,4 @@ The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\fi
 - <span style="color:#fa4d4d">[Sept '19]</span> CrypTFlow implementation and experiments are now all open-sourced at [GitHub](https://github.com/mpc-msri/EzPC).
 - <span style="color:#fa4d4d">[Mar '19]</span> Presented our work on CrypTFlow at Microsoft's internal conference - TechFest at Redmond, Washington.
 
-###### Last updated: February 11, 2020
+###### Last updated: March 8, 2020
