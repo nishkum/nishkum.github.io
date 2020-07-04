@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-09-15-cryptflow
 excerpt: 'We present CrypTFlow, a first of its kind system that converts TensorFlow inference code into Secure Multi-party Computation (MPC) protocols at the push of a button. The system enables secure inference on real-world networks like ResNet50 over the ImageNet dataset with running time of about 30 seconds for semi-honest security and under 2 minutes for malicious security.'
 date: 2019-09-15
-year: 2020 (To Appear)
+year: 2020
 venue: IEEE Symposium on Security and Privacy (S&P)
 authors: 'Nishant Kumar, Mayank Rathee, Nishanth Chandran, Divya Gupta, Aseem Rastogi & Rahul Sharma'
 eprint: 'https://eprint.iacr.org/2019/1049'
