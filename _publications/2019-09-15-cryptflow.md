@@ -17,9 +17,13 @@ We experimentally demonstrate the power of our system by showing the secure infe
 
 ## Updates
 - <span style="color:#fa4d4d">[Feb '20]</span> CrypTFlow has been accepted at [IEEE Symposium on Security and Privacy (S&P), 2020](https://www.ieee-security.org/TC/SP2020/).
+- <span style="color:#fa4d4d">[May '20]</span> I [presented](https://www.youtube.com/watch?v=53rxhEmDqQk) our work on CrypTFlow at IEEE S&P, 2020.
 
 ## Links:
 1. [eprint](https://eprint.iacr.org/2019/1049)
 2. [arXiv](https://arxiv.org/abs/1909.07814)
 3. [GitHub](https://github.com/mpc-msri/EzPC)
 4. [Talk](https://crypto.iacr.org/2019/affevents/ppml/page.html) at PPML Workshop, Crypto 2019
+5. [Talk](https://www.youtube.com/watch?v=53rxhEmDqQk) at IEEE S&P, 2020
+6. [Teaser](https://www.youtube.com/watch?v=vOIpcq9mq8w) at IEEE S&P, 2020 
+7. [Talk](https://www.youtube.com/watch?v=ydlEncvKTtU) at TPMPC, 2020

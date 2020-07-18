@@ -1,16 +1,16 @@
 # main links links
 main:
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
 
   - title: "Publications"
     url: /publications/
   
-  - title: "Writings"
-    url: /writings/
+  # - title: "Writings"
+  #   url: /writings/
 
-  - title: "Personal Posts"
-    url: /personal-year-archive/
+  # - title: "Personal Posts"
+  #   url: /personal-year-archive/
 
   - title: "Misc"
     url: /misc/    
