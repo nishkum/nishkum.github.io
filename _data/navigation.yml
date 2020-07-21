@@ -15,6 +15,6 @@ main:
   - title: "Misc"
     url: /misc/    
   
-  - title: "CV"
-    url: /files/Nishant_Academic_CV.pdf
+  # - title: "CV"
+  #   url: /files/Nishant_Academic_CV.pdf
 
