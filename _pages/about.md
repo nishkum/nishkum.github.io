@@ -17,10 +17,11 @@ Prior to Microsoft Research, I completed my Bachelors of Technology in [Computer
 <!-- The detailed PDF verison of my CV can be found here - [__Curriculum Vitae__](\files\Nishant_Academic_CV.pdf){: .btn .btn--info} -->
 
 ## Latest News 
+- <span style="color:#fa4d4d">[July '20]</span> Paper on "PIE: Practical 2-Party Secure Inference" is accepted to ACM CCS 2020!
 - <span style="color:#fa4d4d">[Mar '20]</span> I will be joining UIUC for my PhD in Fall 2020.
 - <span style="color:#fa4d4d">[Feb '20]</span> Our work on CrypTFlow has been accepted to IEEE S&P, 2020! 
 - <span style="color:#fa4d4d">[Sept '19]</span> Check out the [youtube video](https://www.youtube.com/watch?v=-1H1Sp-_5YU) on our project EzPC.
 - <span style="color:#fa4d4d">[Sept '19]</span> CrypTFlow implementation and experiments are now all open-sourced at [GitHub](https://github.com/mpc-msri/EzPC).
 - <span style="color:#fa4d4d">[Mar '19]</span> Presented our work on CrypTFlow at Microsoft's internal conference - TechFest at Redmond, Washington.
 
-###### Last updated: July 21, 2020
+###### Last updated: July 29, 2020
