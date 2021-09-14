@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Nishant Kumar"
   avatar           : "me.jpg"
-  bio              : "First-year PhD, UIUC |<br>Ex-RF@MSR India |<br>CS grad, IIT Delhi"
-  location         : "Bengaluru, India"
+  bio              : "PhD student, UIUC |<br>Ex-RF@MSR India |<br>CS grad, IIT Delhi"
+  location         : "Champaign, US"
   employer         : #"Microsoft Research Lab, India"
   googlescholar    : "https://scholar.google.com/citations?user=GqU6NCMAAAAJ&hl=en"
   email            : "nkumar13@illinois.edu"

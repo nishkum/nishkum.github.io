@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student in the CS department at University of Illinois at Urbana-Champaign (UIUC). Broadly, my research interests include theoretical and applied aspects of cryptography and security. 
+I am a PhD student in the CS department at University of Illinois at Urbana-Champaign (UIUC), where I am advised by [Dr. Dakshita Khurana](http://www.dakshitakhurana.com/). My research interests include both theoretical and applied aspects of cryptography. 
 
 Previously, I spent two awesome years as a [Research Fellow](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/research-fellow-program/) at [Microsoft Research Lab, India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I worked in the cryptography group, on the [EzPC](https://www.microsoft.com/en-us/research/project/ezpc-easy-secure-multi-party-computation/) ([Easy Secure Multi-party Computation](https://www.youtube.com/watch?v=-1H1Sp-_5YU)) project with [Dr. Nishanth Chandran](https://www.microsoft.com/en-us/research/people/nichandr/), [Dr. Divya Gupta](https://www.microsoft.com/en-us/research/people/digup/), [Dr. Aseem Rastogi](https://www.microsoft.com/en-us/research/people/aseemr/) and [Dr. Rahul Sharma](https://cs.stanford.edu/people/sharmar/). 
 
@@ -20,4 +20,4 @@ Prior to Microsoft Research, I completed my Bachelors of Technology in [Computer
 - <span style="color:#fa4d4d">[Jan '21]</span> "CrypTFlow2: Practical 2-Party Secure Inference" accepted to ACM CCS 2020!
 - <span style="color:#fa4d4d">[July '20]</span> "CrypTFlow2: Practical 2-Party Secure Inference" accepted to ACM CCS 2020!
  -->
-###### Last updated: January 26, 2021
+###### Last updated: September 13, 2021
