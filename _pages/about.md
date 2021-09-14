@@ -20,4 +20,4 @@ Prior to Microsoft Research, I completed my Bachelors of Technology in [Computer
 - <span style="color:#fa4d4d">[Jan '21]</span> "CrypTFlow2: Practical 2-Party Secure Inference" accepted to ACM CCS 2020!
 - <span style="color:#fa4d4d">[July '20]</span> "CrypTFlow2: Practical 2-Party Secure Inference" accepted to ACM CCS 2020!
  -->
-###### Last updated: September 13, 2021
+###### Last updated: September, 2021
