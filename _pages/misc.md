@@ -7,7 +7,7 @@ redirect_from:
   - /misc.html
 ---
 * Here are some notes I wrote as part of my courses: 
-    * [IKNP OT Extension](/files/OT_extension.pdf)
+    * [Techniques in OT Extension](/files/OT_extension.pdf)
     * [Watrous rewinding technique](/files/zk_quantum_attacks.pdf)
 * My [Erd&#337;s Numer](https://en.wikipedia.org/wiki/Erd%C5%91s_number) is 4.  
 Here are 2 vertex-disjoint paths leading from Paul Erd&#337;s to me.  
